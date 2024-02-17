@@ -1,6 +1,6 @@
 ### Bienvenue sur mon profil GitHub! 👋
 
-Je suis [Ny-Harena], passionné(e) de développement et curieux(se) d'apprendre de nouvelles technologies.
+Je suis Ny-Harena (alias "asseukihuh"), developpeur novice et curieux et cherchant a apprendre de nouvelles technologies.
 
 
 <!--
