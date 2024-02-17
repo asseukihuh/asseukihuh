@@ -21,6 +21,10 @@ Découvrez mes projets et contributions sur :
 
 - [Portfolio](https://tonportfolio.com)
 
+## 📊 Statistiques GitHub
+
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=asseukihuh&show_icons=true&theme=dark)
+
 ## 🛠️ Outils et Langages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asseukihuh&layout=compact&theme=dark)](https://github.com/asseukihuh)
