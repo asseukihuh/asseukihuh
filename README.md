@@ -12,7 +12,7 @@ Je suis Ny-Harena (alias "asseukihuh"), developpeur novice et cherchant a appren
 Vous pouvez me contacter via :
 
 - [Email](mailto:ny.rktv@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/tonprofil/)
+- [LinkedIn](https://www.linkedin.com/in/ny-harena-rakotovao-661975296/)
 - [Twitter](https://twitter.com/tontwitter)
 
 <!--
