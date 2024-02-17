@@ -1,4 +1,7 @@
-### Salutations 👋
+### Bienvenue sur mon profil GitHub! 👋
+
+Je suis [Ny-Harena], passionné(e) de développement et curieux(se) d'apprendre de nouvelles technologies.
+
 
 <!--
 **asseukihuh/asseukihuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
