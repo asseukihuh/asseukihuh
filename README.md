@@ -1,7 +1,19 @@
 ### Bienvenue sur mon profil GitHub! 👋
 
-Je suis Ny-Harena (alias "asseukihuh"), developpeur novice et curieux et cherchant a apprendre de nouvelles technologies.
+Je suis Ny-Harena (alias "asseukihuh"), developpeur novice et cherchant a apprendre de nouvelles competences en dev.
 
+## 🚀 Technologies et Outils
+
+- 🔭 Actuellement, je travaille sur un projet robotique Tello 
+- 🌱 J'apprends actuellement [Nom de la technologie/le domaine]
+- 👯 Je suis ouvert(e) à la collaboration sur des projets open source
+- 💬 N'hésitez pas à me contacter pour discuter de projets ou de technologies connexes
+
+Vous pouvez me contacter via :
+
+- [Email](mailto:ny.rktv@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/tonprofil/)
+- [Twitter](https://twitter.com/tontwitter)
 
 <!--
 **asseukihuh/asseukihuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
