@@ -19,7 +19,7 @@ Je suis Ny-Harena (alias "asseukihuh"), developpeur novice et cherchant a appren
 
 Découvrez mes projets et contributions sur :
 
-- [Portfolio](https://tonportfolio.com)
+- [Portfolio](https://)
 
 ## 📊 Statistiques GitHub
 
