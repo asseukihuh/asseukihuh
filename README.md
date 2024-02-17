@@ -9,7 +9,7 @@ Je suis Ny-Harena (alias "asseukihuh"), developpeur novice et cherchant a appren
 - 👯 Je suis ouvert(e) à la collaboration sur des projets open source
 - 💬 N'hésitez pas à me contacter pour discuter de projets
 
-Vous pouvez me contacter via :
+## ✉️ Vous pouvez me contacter via :
 
 - [Email](mailto:ny.rktv@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/ny-harena-rakotovao-661975296/)
