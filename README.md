@@ -7,7 +7,7 @@ Je suis Ny-Harena (alias "asseukihuh"), developpeur novice et cherchant a appren
 - 🔭 Actuellement, je travaille sur un projet robotique Tello, [lien vers le projet](https://github.com/asseukihuh/TELLOPYATELIERSCIENTIFIQUE).
 - 🌱 J'apprends actuellement a coder dans le domaine robotique et le C#
 - 👯 Je suis ouvert(e) à la collaboration sur des projets open source
-- 💬 N'hésitez pas à me contacter pour discuter de projets ou de technologies connexes
+- 💬 N'hésitez pas à me contacter pour discuter de projets
 
 Vous pouvez me contacter via :
 
