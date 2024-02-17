@@ -13,7 +13,7 @@ Vous pouvez me contacter via :
 
 - [Email](mailto:ny.rktv@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/ny-harena-rakotovao-661975296/)
-- [Twitter](https://twitter.com/tontwitter)
+- [Twitter]((https://discordapp.com/users/)351614425125617665)
 
 <!--
 **asseukihuh/asseukihuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
