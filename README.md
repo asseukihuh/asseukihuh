@@ -11,7 +11,7 @@ Je suis Ny-Harena (alias "asseukihuh"), developpeur novice et cherchant a appren
 
 ## ✉️ Vous pouvez me contacter via :
 
-- [Email](mailto:ny.rktv@gmail.com)
+- [<img align="left" alt="LinkedIn" width="22px" src="https://simpleicons.org/icons/gmail.svg" />](mailto:ny.rktv@gmail.com)
 - [<img align="left" alt="LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />](https://www.linkedin.com/in/ny-harena-rakotovao-661975296/)
 - [<img align="left" alt="LinkedIn" width="22px" src="https://simpleicons.org/icons/discord.svg" />](https://discordapp.com/users/351614425125617665)
 
