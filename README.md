@@ -1,4 +1,4 @@
-# Bienvenue sur mon profil GitHub! 👋
+# **Bienvenue sur mon profil GitHub!** 👋
 
 Je suis Ny-Harena (alias "asseukihuh"), developpeur novice et cherchant a apprendre de nouvelles competences en dev.
 
