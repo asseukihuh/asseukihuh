@@ -4,7 +4,7 @@ Je suis Ny-Harena (alias "asseukihuh"), developpeur novice et cherchant à appre
 
 ## 🚀 Technologies et Outils
 
-- 🔭 Actuellement, je travaille sur un projet robotique Tello, ["TelloSky"](https://github.com/anonymecrasher/TelloSky) (python) et apprends à coder une application avec flutter, ["flutter-app"](https://github.com/asseukihuh/flutter-app)(principalement du Dart mais aussi du C ou C++).
+- 🔭 Actuellement, je travaille sur un projet robotique Tello, ["TelloSky"](https://github.com/anonymecrasher/TelloSky) (python) et apprends à coder une application avec flutter, ["flutter-app"](https://github.com/asseukihuh/flutter-app) (principalement du Dart mais aussi du C ou C++).
 - 🌱 J'apprends actuellement a coder dans le domaine robotique et le C#
 - 👯 Je suis ouvert(e) à la collaboration sur des projets open source
 - 💬 N'hésitez pas à me contacter pour discuter de projets
