@@ -4,7 +4,7 @@ Je suis Ny-Harena (alias "asseukihuh"), developpeur novice et cherchant à appre
 
 ## 🚀 Technologies et Outils
 
-- 🔭 Actuellement, je travaille sur un projet robotique Tello, [lien vers le projet](https://github.com/anonymecrasher/TelloSky).
+- 🔭 Actuellement, je travaille sur un projet robotique Tello, [lien vers le projet](https://github.com/anonymecrasher/TelloSky) et apprends a coder une application avec flutter, [lien vers le projet](https://github.com/asseukihuh/flutter-app).
 - 🌱 J'apprends actuellement a coder dans le domaine robotique et le C#
 - 👯 Je suis ouvert(e) à la collaboration sur des projets open source
 - 💬 N'hésitez pas à me contacter pour discuter de projets
