@@ -1,6 +1,6 @@
 # **Bienvenue sur mon profil GitHub!** 👋
 
-Je suis Ny-Harena (alias "asseukihuh") je suis en classe de terminale, developpeur novice et cherchant à apprendre de nouvelles competences en dev.
+Je suis Ny-Harena (alias "asseukihuh") je suis en classe de terminale, je suis developpeur novice et cherchant à apprendre de nouvelles competences en dev.
 
 ## 🚀 Technologies et Outils
 
