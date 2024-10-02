@@ -25,6 +25,8 @@ Découvrez mes projets et contributions sur :
 
 ## 📊 Statistiques GitHub
 
+![](https://komarev.com/ghpvc/?username=asseukihuh&abbreviated=true)
+
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=asseukihuh&show_icons=true&theme=dark)
 
 ## 🛠️ Outils et Langages
