@@ -11,7 +11,7 @@ Je suis Ny-Harena (alias "asseukihuh"). En classe de terminale, je suis developp
 
 ## ✉️ Vous pouvez me contacter via :
 
-- [<img align="left" alt="Gmail" width="22px" src="https://simpleicons.org/icons/gmail.svg" />](mailto:ny.rktv@gmail.com)
+- [<img align="left" alt="Gmail" width="22px" src="https://simpleicons.org/icons/gmail.svg" />](mailto:nyharena_rakotovao@outlook.com)
 - [<img align="left" alt="LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />](https://www.linkedin.com/in/ny-harena-rakotovao-661975296/)
 - [<img align="left" alt="Discord" width="22px" src="https://simpleicons.org/icons/discord.svg" />](https://discordapp.com/users/351614425125617665)
 - [<img align="left" alt="Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />](https://www.instagram.com/ny_rktv/)
