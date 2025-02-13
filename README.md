@@ -1,20 +1,20 @@
 # **Bienvenue sur mon profil GitHub!** 👋
 
-Je suis Ny-Harena (alias "asseukihuh"). En classe de terminale, je suis developpeur novice et cherchant à apprendre de nouvelles competences en dev.
+Je suis Ny-Harena (alias "asseukihuh"). Actuellement en L1 à IG2I Centrale Lille (école d'ingénieurs), je suis un développeur novice cherchant à apprendre de nouvelles compétences en développement.
 
 ## 🚀 Technologies et Outils
 
-- 🔭 Actuellement, je travaille sur un projet robotique Tello, ["TelloSky"](https://github.com/anonymecrasher/TelloSky) (python) et apprends à coder une application avec flutter, ["flutter-app"](https://github.com/asseukihuh/flutter-app) (principalement du Dart mais aussi du C ou C++).
-- 🌱 J'apprends actuellement a coder dans le domaine robotique et le C#
-- 👯 Je suis ouvert(e) à la collaboration sur des projets open source
-- 💬 N'hésitez pas à me contacter pour discuter de projets
+- 🔭 Actuellement, je travaille sur un projet de moteur de jeu AVALAM, qui consiste à créer un bot capable de jouer une partie.
+- 🌱 J'apprends actuellement à coder dans différents languages comme le C ou le JS.
+- 👯 Je suis ouvert(e) à la collaboration sur des projets open source.
+- 💬 N'hésitez pas à me contacter pour discuter de projets.
 
 ## ✉️ Vous pouvez me contacter via :
 
-- [<img align="left" alt="Gmail" width="22px" src="https://simpleicons.org/icons/gmail.svg" /> Mail](mailto:nyharena_rakotovao@outlook.com)
-- [<img align="left" alt="LinkedIn" width="22px" src="https://simpleicons.org/icons/42.svg" /> Linkedin](https://www.linkedin.com/in/ny-harena-rakotovao-661975296/)
-- [<img align="left" alt="Discord" width="22px" src="https://simpleicons.org/icons/discord.svg" /> Discord](https://discordapp.com/users/351614425125617665)
-- [<img align="left" alt="Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" /> Instagram](https://www.instagram.com/ny_rktv/)
+- [<img align="left" alt="Gmail" width="22px" src="https://simpleicons.org/icons/gmail.svg" style="color:white;" /> Mail](mailto:nyharena_rakotovao@outlook.com)
+- [<img align="left" alt="LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" style="color:white;" /> Linkedin](https://www.linkedin.com/in/ny-harena-rakotovao-661975296/)
+- [<img align="left" alt="Discord" width="22px" src="https://simpleicons.org/icons/discord.svg" style="color:white;" /> Discord](https://discordapp.com/users/351614425125617665)
+- [<img align="left" alt="Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" style="color:white;" /> Instagram](https://www.instagram.com/ny_rktv/)
 
 ## 🌐 Liens Utiles
 
