@@ -43,7 +43,7 @@ Découvrez mes projets et contributions sur :
 
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=asseukihuh&show_icons=true&theme=dark)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=asseukihuhk)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asseukihuh&" alt="a" /></p>
 
 ## 😻 Outils et Langages
 
