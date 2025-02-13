@@ -1,9 +1,3 @@
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asseukihuh&" alt="a" /></p>
-
-
-
-
-
 # **Bienvenue sur mon profil GitHub!** 🐈
 
 Je suis Ny-Harena (alias "asseukihuh"). Actuellement en L1 à IG2I Centrale Lille (école d'ingénieurs), je suis un développeur novice cherchant à apprendre de nouvelles compétences en développement.
@@ -24,11 +18,6 @@ Je suis Ny-Harena (alias "asseukihuh"). Actuellement en L1 à IG2I Centrale Lill
 <a href="https://www.instagram.com/ny_rktv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ny.rktv" height="30" width="40" /></a>
 <a href="[https://discord.gg/dzadaz](https://discordapp.com/users/351614425125617665)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dzadaz" height="30" width="40" /></a>
 </p>
-
-- [<img align="left" alt="Gmail" width="22px" src="https://simpleicons.org/icons/gmail.svg" style="background-color:white;" /> Mail](mailto:nyharena_rakotovao@outlook.com)
-- [<img align="left" alt="LinkedIn" width="22px" src="https://simpleicons.org/icons/logmein.svg" style="color:white;" /> Linkedin](https://www.linkedin.com/in/ny-harena-rakotovao-661975296/)
-- [<img align="left" alt="Discord" width="22px" src="https://simpleicons.org/icons/discord.svg" style="color:white;" /> Discord](https://discordapp.com/users/351614425125617665)
-- [<img align="left" alt="Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" style="color:white;" /> Instagram](https://www.instagram.com/ny_rktv/)
 
 ## 😸 Liens Utiles
 
