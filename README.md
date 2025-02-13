@@ -12,7 +12,7 @@ Je suis Ny-Harena (alias "asseukihuh"). Actuellement en L1 à IG2I Centrale Lill
 ## ✉️ Vous pouvez me contacter via :
 
 - [<img align="left" alt="Gmail" width="22px" src="https://simpleicons.org/icons/gmail.svg" style="color:white;" /> Mail](mailto:nyharena_rakotovao@outlook.com)
-- [<img align="left" alt="LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" style="color:white;" /> Linkedin](https://www.linkedin.com/in/ny-harena-rakotovao-661975296/)
+- [<img align="left" alt="LinkedIn" width="22px" src="https://simpleicons.org/icons/42.svg" style="color:white;" /> Linkedin](https://www.linkedin.com/in/ny-harena-rakotovao-661975296/)
 - [<img align="left" alt="Discord" width="22px" src="https://simpleicons.org/icons/discord.svg" style="color:white;" /> Discord](https://discordapp.com/users/351614425125617665)
 - [<img align="left" alt="Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" style="color:white;" /> Instagram](https://www.instagram.com/ny_rktv/)
 
