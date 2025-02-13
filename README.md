@@ -1,14 +1,3 @@
-
-<p align="left">
-<a href="https://linkedin.com/in/ny-harena-rakotovao-661975296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ny-harena-rakotovao-661975296" height="30" width="40" /></a>
-<a href="https://instagram.com/ny.rktv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ny.rktv" height="30" width="40" /></a>
-<a href="https://discord.gg/dzadaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dzadaz" height="30" width="40" /></a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asseukihuh&show_icons=true&locale=en&layout=compact" alt="a" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asseukihuh&show_icons=true&locale=en" alt="a" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asseukihuh&" alt="a" /></p>
 
 
@@ -53,6 +42,8 @@ Découvrez mes projets et contributions sur :
 ![](https://komarev.com/ghpvc/?username=asseukihuh&abbreviated=true)
 
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=asseukihuh&show_icons=true&theme=dark)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=asseukihuh&show_icons=true&theme=dark)
 
 ## 😻 Outils et Langages
 
